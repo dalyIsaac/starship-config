@@ -1,6 +1,7 @@
 format = """
 $username\
 $hostname\
+$sudo\
 $shlvl\
 $kubernetes\
 $directory\
